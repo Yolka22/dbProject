@@ -1,0 +1,6 @@
+.book{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px seagreen solid;
+}
